@@ -1,0 +1,49 @@
+Simulacion del Algoritmo del Banquero
+Resources
+0,0,0,0,0,0
+
+w,3,2,4,5,6,2 rejected
+h,4,1,2,0,0,0 rejected
+k,3,1,2,1,2,1 rejected
+r,3,2,4,5,6,2 rejected
+t,4,0,2,0,0,0 rejected
+y,3,0,2,1,2,1 rejected
+u,5,3,3,0,2,0 rejected
+z,0,0,0,0,0,1 rejected
+i,1,4,2,1,2,0 rejected
+o,3,1,4,5,6,2 rejected
+m,4,2,2,0,0,0 rejected
+n,3,1,2,1,2,1 rejected
+b,3,2,4,5,6,2 rejected
+v,4,2,2,0,0,0 rejected
+c,0,0,0,0,0,0 accepted
+x,5,0,3,0,2,0 rejected
+z,0,1,0,0,0,1 rejected
+a,1,2,2,1,2,0 rejected
+f,3,3,4,5,6,2 rejected
+w,3,2,4,5,6,2 rejected
+h,4,1,2,0,0,0 rejected
+k,3,1,2,1,2,1 rejected
+r,3,2,4,5,6,2 rejected
+t,4,0,2,0,0,0 rejected
+y,3,0,2,1,2,1 rejected
+u,5,3,3,0,2,0 rejected
+z,0,0,0,0,0,1 rejected
+i,1,4,2,1,2,0 rejected
+o,3,1,4,5,6,2 rejected
+m,4,2,2,0,0,0 rejected
+n,3,1,2,1,2,1 rejected
+b,3,2,4,5,6,2 rejected
+v,4,2,2,0,0,0 rejected
+c,3,0,2,1,2,1 rejected
+x,5,0,3,0,2,0 rejected
+z,0,1,0,0,0,1 rejected
+a,1,2,2,1,2,0 rejected
+f,3,3,4,5,6,2 rejected
+--------------------
+c process ended.
+--------------------
+The Performance is 100.00%
+The number of process ended is 1.0
+The number of iterations is 1.0
+The number of process rejected is 37
